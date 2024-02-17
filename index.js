@@ -4,7 +4,7 @@ new TradingView.widget(
         "symbol": "BINANCE:BTCUSDT",
         "interval": "240",
         "timezzone": "Etc/Utc",
-        "theme": "dark",
+        "theme": "light",
         "style": "1",
         "locale": "en",
         "toolbar_bg": "#f1f3f6",
